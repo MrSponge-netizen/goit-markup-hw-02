@@ -6,6 +6,7 @@ body {
   line-height: 1.5;
   letter-spacing: 2%;
   color: #434455;
+  background-color:#FFFFFF; 
 }
 
 .link {
@@ -25,14 +26,14 @@ ul {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  color: #2e2f42;
-}
-.logo .iris-color-highlight {
   color: #4d5ae5;
+}
+.logo .navy-color-highlight {
+  color: #2e2f42;
 }
 
 .cloud-color-highlight {
