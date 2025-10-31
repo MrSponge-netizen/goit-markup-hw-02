@@ -113,21 +113,28 @@ header {
   text-align: center;
   font-weight: 700;
   font-size: 36px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
-   line-height: 1.2;
-   color:#2e2f42;
+  text-transform: capitalize;
+  color:#2e2f42;
 
+}
+
+.team-section-title{
+  
 }
 
 .text-title {
   font-weight: 500;
   font-size: 20px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+   line-height: 1.2;
+   color:#2e2f42;
 }
 .small-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.16;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 
