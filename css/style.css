@@ -93,6 +93,7 @@ header {
 .advantages-section {
   background-color: #ffffff;
   text-align: left;
+  
 }
 
 .team-section {
@@ -112,7 +113,10 @@ header {
   text-align: center;
   font-weight: 700;
   font-size: 36px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
+   line-height: 1.2;
+   color:#2e2f42;
+
 }
 
 .text-title {
@@ -122,9 +126,9 @@ header {
 }
 .small-text {
   font-weight: 400;
-  font-size: 12px;
+  font-size: 16px;
   line-height: 1.16;
-  letter-spacing: 4%;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-list {
