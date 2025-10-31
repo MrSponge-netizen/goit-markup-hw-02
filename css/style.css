@@ -137,8 +137,8 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.04em;
-  background-color: #404bbf;
+  letter-spacing: 0.02em;
+  background-color: #4d5ae5;
   border-radius: 4px;
   border: 0px;
   padding: 1px 1px;
@@ -148,7 +148,7 @@ header {
 }
 .common-button:hover,
 .common-button.focus {
-  background-color: #4d5ae5;
+  background-color:#404bbf ;
 }
 
 /*Footer*/
