@@ -36,7 +36,7 @@ ul {
   color: #2e2f42;
 }
 
- .cloud-color-highlight {
+.logo .cloud-color-highlight {
   color: #f4f4fd;
 }
 
@@ -163,6 +163,7 @@ header {
 }
 
 /*Footer*/
-footer {
+.footer {
   background-color: #2e2f42;
+  color:#f4f4fd;
 }
