@@ -100,12 +100,15 @@ header {
   background-color: #f4f4fd;
   text-align: center;
 }
-
+.team-item{
+  background-color: #FFFFFF;
+}
 /*Title Styles */
 .page-title {
   font-weight: 700;
   font-size: 56px;
-  letter-spacing: 2%;
+  
+  letter-spacing: 0.02em;
   line-height: 1.07;
 }
 
@@ -120,9 +123,7 @@ header {
 
 }
 
-.team-section-title{
-  
-}
+
 
 .text-title {
   font-weight: 500;
@@ -148,18 +149,17 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
   background-color: #4d5ae5;
-  border-radius: 4px;
+ /* border-radius: 4px;
   border: 0px;
-  padding: 1px 1px;
   width: 169px;
-  height: 56px;
+  height: 56px;*/
   color: #ffffff;
 }
 .common-button:hover,
 .common-button.focus {
-  background-color:#404bbf ;
+  background-color:#404BBF ;
 }
 
 /*Footer*/
