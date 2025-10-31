@@ -85,7 +85,7 @@ header {
 
 /* Main Section Styles*/
 
-.order-section {
+.ordr-section {
   background-color: #2e2f42;
   color: #ffffff;
   text-align: center;
@@ -158,7 +158,7 @@ header {
   color: #ffffff;
 }
 .common-button:hover,
-.common-button.focus {
+.common-button:focus {
   background-color: #404BBF;
 }
 
